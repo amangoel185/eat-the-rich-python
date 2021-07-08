@@ -24,8 +24,8 @@ class BattlesnakeServer(object):
         """
         return {
             "apiversion": "1",
-            "author": "eat the rich",
-            "color": "#0F4C81",
+            "author": "eat the rich", # that is the name
+            "color": "#0F4C81", # the lovely Pantone Blue
             "head": "rudolph",
             "tail": "flake",
         }
