@@ -24,10 +24,10 @@ class BattlesnakeServer(object):
         """
         return {
             "apiversion": "1",
-            "author": "",  # TODO: Your Battlesnake Username
-            "color": "#888888",  # TODO: Personalize
-            "head": "default",  # TODO: Personalize
-            "tail": "default",  # TODO: Personalize
+            "author": "eat the rich",
+            "color": "#0F4C81",
+            "head": "rudolph",
+            "tail": "flake",
         }
 
     @cherrypy.expose
